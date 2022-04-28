@@ -21,7 +21,7 @@
     <div class="all_wrap">
 
         <!-- header-->
-        <div data-include="inc/header.html"></div>
+        <div data-include="https://github.com/doyookim/Portfolio/blob/main/brand_hyundai_clone_coding/inc/header.html"></div>
 
         <!-- content -->
         <div class="content_wrap">
@@ -30,7 +30,7 @@
 
             <div data-include="inc/main_hero.html"></div>
             <div data-include="inc/main_article.html"></div>
-            <div data-include="inc/main_large.html"></div>
+            <div data-include="https://github.com/doyookim/Portfolio/blob/main/brand_hyundai_clone_coding/inc/navbar.html"></div>
 
 
         </div>
