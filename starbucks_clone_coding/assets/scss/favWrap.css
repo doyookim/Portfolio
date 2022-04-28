@@ -185,7 +185,7 @@ sub {
 }
 
 #favWrap {
-  background: url(../../images/fav_prod_bg_new.jpg) center center fixed no-repeat #45434c;
+  background: url(images/fav_prod_bg_new.jpg) center center fixed no-repeat #45434c;
   background-size: auto 100%;
   height: 800px;
   padding: 0;
@@ -202,7 +202,7 @@ sub {
 }
 
 .fav_prod_txt01 {
-  background: url(../../images/fav_prod_txt01.png) no-repeat;
+  background: url(images/fav_prod_txt01.png) no-repeat;
   height: 204px;
   overflow: hidden;
   position: absolute;
@@ -215,7 +215,7 @@ sub {
 }
 
 .fav_prod_txt02 {
-  background: url(../../images/fav_prod_txt02.png) no-repeat;
+  background: url(images/fav_prod_txt02.png) no-repeat;
   height: 156px;
   overflow: hidden;
   position: absolute;
@@ -233,7 +233,7 @@ sub {
   background-repeat: no-repeat;
   background-position: center;
   z-index: 7;
-  background-image: url(../../images/2022_Summer1_pick_img.png);
+  background-image: url(images/2022_Summer1_pick_img.png);
   top: 80px;
   right: 100px;
   width: 612px;
