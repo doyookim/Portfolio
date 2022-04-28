@@ -239,7 +239,7 @@ sub {
 }
 
 .line_notice_inner_l .notice_ttl {
-  background: url(../../images/notice_ttl.png);
+  background: url(images/notice_ttl.png);
   background-size: 65px auto;
   height: 17px;
   left: 0;
@@ -291,7 +291,7 @@ sub {
 }
 
 .line_notice_inner_r span {
-  background: url(../../images/btn_notice_plus.png) 0 0 no-repeat;
+  background: url(images/btn_notice_plus.png) 0 0 no-repeat;
   position: absolute;
   background-size: 35px;
   height: 36px;
@@ -328,7 +328,7 @@ sub {
 }
 
 .line_notice_bgr a p.prom_ttl {
-  background: url(../../images/prom_ttl_b.png) no-repeat;
+  background: url(images/prom_ttl_b.png) no-repeat;
   overflow: hidden;
   position: absolute;
   text-indent: -20000px;

@@ -4,8 +4,8 @@
 .reserve_wrap {
   position: relative;
   height: 400px;
-  background: url(../../images/reserve_2022_indonesia_visual_bg.jpg) no-repeat
-    center top;
+  background: url(images/reserve_2022_indonesia_visual_bg.jpg) no-repeat center
+    top;
   background-size: cover;
   overflow: hidden;
 
@@ -17,14 +17,14 @@
     opacity: 1;
 
     &:before {
-      content: url(../../images/reserve_2022_indonesia_leaf1.png);
+      content: url(images/reserve_2022_indonesia_leaf1.png);
       position: absolute;
       left: -232px;
       bottom: -2%;
     }
 
     &:after {
-      content: url(../../images/reserve_2022_indonesia_leaf2.png);
+      content: url(images/reserve_2022_indonesia_leaf2.png);
       position: absolute;
       right: 0;
       bottom: -1%;

@@ -188,7 +188,7 @@ sub {
   overflow: hidden;
   position: relative;
   height: 572px;
-  background: #f9e8ee url(../../images/2022_Summer1_bean_bg2.jpg) center center no-repeat;
+  background: #f9e8ee url(images/2022_Summer1_bean_bg2.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -203,7 +203,7 @@ sub {
   left: 0;
   width: 425px;
   height: 392px;
-  background-image: url(../../images/2022_Summer1_bean_bg_left.png);
+  background-image: url(images/2022_Summer1_bean_bg_left.png);
 }
 
 #main-bean_wrap:after {
@@ -216,7 +216,7 @@ sub {
   right: 0;
   width: 482px;
   height: 360px;
-  background-image: url(../../images/2022_Summer1_bean_bg_right.png);
+  background-image: url(images/2022_Summer1_bean_bg_right.png);
 }
 
 .main-bean_inner {

@@ -216,7 +216,7 @@ sub {
   background-repeat: no-repeat;
   background-size: cover;
   height: 646px;
-  background-image: url(../../images/2022_Summer1_main_bg.jpg);
+  background-image: url(images/2022_Summer1_main_bg.jpg);
   background-position: 63% bottom;
 }
 
