@@ -177,15 +177,15 @@ table {
 }
 
 .footer_wrap .footer_area .footer_list .f_row .ww_link_ico .facebook {
-  background-image: url(images/facebook.png);
+  background-image: url(../../images/facebook.png);
 }
 
 .footer_wrap .footer_area .footer_list .f_row .ww_link_ico .instar {
-  background-image: url(images/instagram.png);
+  background-image: url(../../images/instagram.png);
 }
 
 .footer_wrap .footer_area .footer_list .f_row .ww_link_ico .youtube {
-  background-image: url(images/youtube.png);
+  background-image: url(../../images/youtube.png);
 }
 
 .footer_wrap .footer_area .footer_list .f_row .ww_link_ico .twitter {
@@ -216,7 +216,7 @@ table {
   width: 10px;
   height: 10px;
   margin: -1px 0 0 8px;
-  background-image: url(images/ico_link.png);
+  background-image: url(../../images/ico_link.png);
   vertical-align: middle;
 }
 /*# sourceMappingURL=footer.css.map */
