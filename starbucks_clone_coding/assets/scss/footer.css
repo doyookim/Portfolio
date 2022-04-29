@@ -193,7 +193,7 @@ sub {
 }
 
 .footer_wrap {
-  background: url(images/footer_logo.png) right 8px no-repeat;
+  background: url(../../images/footer_logo.png) right 8px no-repeat;
   display: inline-block;
   left: 50%;
   position: relative;

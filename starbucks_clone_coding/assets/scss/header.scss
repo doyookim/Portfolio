@@ -31,7 +31,7 @@
       z-index: 12;
 
       a {
-        background: url(images/logo.png);
+        background: url(../../images/logo.png);
         display: block;
         height: 100%;
         overflow: hidden;
@@ -41,7 +41,7 @@
     }
 
     .util_nav {
-      background: url(images/sdown_util_sep.png) no-repeat;
+      background: url(../../images/sdown_util_sep.png) no-repeat;
       position: absolute;
       height: 20px;
       right: 93px;
